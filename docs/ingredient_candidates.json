@@ -1,0 +1,998 @@
+[
+    {
+        "name": "Chicken thigh",
+        "macros_per_100g": {
+            "calories": 165,
+            "protein": 23,
+            "fat": 8,
+            "carbs": 0
+        },
+        "micros": {
+            "iron_mg": 1.1,
+            "zinc_mg": 2.4,
+            "magnesium_mg": 20,
+            "vitamin_b6_mg": 0.5
+        },
+        "template_compatible": [
+            "Tray Bake",
+            "Stir Fry"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 13.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Lentils (dry)",
+        "macros_per_100g": {
+            "calories": 350,
+            "protein": 25,
+            "fat": 1,
+            "carbs": 60
+        },
+        "micros": {
+            "iron_mg": 6.5,
+            "zinc_mg": 3.3,
+            "magnesium_mg": 47,
+            "vitamin_b6_mg": 0.5
+        },
+        "template_compatible": [
+            "Stew",
+            "Curry",
+            "Tray Bake"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 3.50,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Oats",
+        "macros_per_100g": {
+            "calories": 380,
+            "protein": 13,
+            "fat": 7,
+            "carbs": 68
+        },
+        "micros": {
+            "iron_mg": 4.3,
+            "magnesium_mg": 138,
+            "zinc_mg": 3.1
+        },
+        "template_compatible": [
+            "Oat Bowl",
+            "Snack",
+            "Smoothie"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 3.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Frozen spinach",
+        "macros_per_100g": {
+            "calories": 25,
+            "protein": 3,
+            "fat": 0.4,
+            "carbs": 4
+        },
+        "micros": {
+            "iron_mg": 3.6,
+            "magnesium_mg": 87,
+            "vitamin_e_mg": 2.1
+        },
+        "template_compatible": [
+            "Frittata",
+            "Curry",
+            "Tray Bake"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 2.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Eggs",
+        "macros_per_100g": {
+            "calories": 143,
+            "protein": 13,
+            "fat": 10,
+            "carbs": 1
+        },
+        "micros": {
+            "iron_mg": 1.2,
+            "zinc_mg": 1.0,
+            "vitamin_d_IU": 82,
+            "vitamin_b12_mcg": 1.1
+        },
+        "template_compatible": [
+            "Frittata",
+            "Snack",
+            "Tray Bake"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 4.50,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Chickpeas (dry)",
+        "macros_per_100g": {
+            "calories": 364,
+            "protein": 19,
+            "fat": 6,
+            "carbs": 61
+        },
+        "micros": {
+            "iron_mg": 6.2,
+            "magnesium_mg": 48,
+            "zinc_mg": 2.5
+        },
+        "template_compatible": [
+            "Stew",
+            "Curry",
+            "Snack"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 3.20,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Sweet potato",
+        "macros_per_100g": {
+            "calories": 86,
+            "protein": 1.6,
+            "fat": 0.1,
+            "carbs": 20
+        },
+        "micros": {
+            "magnesium_mg": 25,
+            "vitamin_e_mg": 0.3,
+            "iron_mg": 0.6
+        },
+        "template_compatible": [
+            "Tray Bake",
+            "Stir Fry",
+            "Stew"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 2.80,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Brown rice",
+        "macros_per_100g": {
+            "calories": 360,
+            "protein": 7.5,
+            "fat": 2,
+            "carbs": 77
+        },
+        "micros": {
+            "iron_mg": 0.8,
+            "magnesium_mg": 44
+        },
+        "template_compatible": [
+            "Tray Bake",
+            "Stir Fry",
+            "Stew"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 3.50,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Red lentils (dry)",
+        "macros_per_100g": {
+            "calories": 358,
+            "protein": 26,
+            "fat": 2,
+            "carbs": 60
+        },
+        "micros": {
+            "iron_mg": 3.3,
+            "magnesium_mg": 36,
+            "zinc_mg": 1.3
+        },
+        "template_compatible": [
+            "Stew",
+            "Curry"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 3.40,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Rolled barley (dry)",
+        "macros_per_100g": {
+            "calories": 354,
+            "protein": 12.5,
+            "fat": 2.3,
+            "carbs": 73
+        },
+        "micros": {
+            "magnesium_mg": 79,
+            "zinc_mg": 2.1
+        },
+        "template_compatible": [
+            "Stew",
+            "Oat Bowl"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 2.80,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Tofu (firm)",
+        "macros_per_100g": {
+            "calories": 145,
+            "protein": 15,
+            "fat": 9,
+            "carbs": 2
+        },
+        "micros": {
+            "iron_mg": 2.7,
+            "magnesium_mg": 30,
+            "zinc_mg": 1.0
+        },
+        "template_compatible": [
+            "Stir Fry",
+            "Tray Bake",
+            "Curry"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 3.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Tempeh",
+        "macros_per_100g": {
+            "calories": 195,
+            "protein": 20,
+            "fat": 11,
+            "carbs": 9
+        },
+        "micros": {
+            "iron_mg": 2.7,
+            "magnesium_mg": 81,
+            "zinc_mg": 1.5
+        },
+        "template_compatible": [
+            "Stir Fry",
+            "Tray Bake",
+            "Snack"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 4.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Canned sardines (in water)",
+        "macros_per_100g": {
+            "calories": 185,
+            "protein": 24,
+            "fat": 10,
+            "carbs": 0
+        },
+        "micros": {
+            "iron_mg": 2.9,
+            "vitamin_d_IU": 270,
+            "zinc_mg": 1.3
+        },
+        "template_compatible": [
+            "Snack",
+            "Tray Bake"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 2.50,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Greek yogurt (plain, full-fat)",
+        "macros_per_100g": {
+            "calories": 97,
+            "protein": 9,
+            "fat": 5,
+            "carbs": 3.5
+        },
+        "micros": {
+            "calcium_mg": 110,
+            "vitamin_b12_mcg": 0.8
+        },
+        "template_compatible": [
+            "Snack",
+            "Smoothie"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 4.20,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Zucchini",
+        "macros_per_100g": {
+            "calories": 17,
+            "protein": 1.2,
+            "fat": 0.3,
+            "carbs": 3.1
+        },
+        "micros": {
+            "magnesium_mg": 18,
+            "vitamin_c_mg": 17
+        },
+        "template_compatible": [
+            "Tray Bake",
+            "Stir Fry",
+            "Frittata"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 2.20,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Banana",
+        "macros_per_100g": {
+            "calories": 89,
+            "protein": 1.1,
+            "fat": 0.3,
+            "carbs": 23
+        },
+        "micros": {
+            "magnesium_mg": 27,
+            "vitamin_b6_mg": 0.4
+        },
+        "template_compatible": [
+            "Oat Bowl",
+            "Smoothie",
+            "Snack"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 2.50,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Frozen mixed berries",
+        "macros_per_100g": {
+            "calories": 50,
+            "protein": 1,
+            "fat": 0.3,
+            "carbs": 12
+        },
+        "micros": {
+            "vitamin_c_mg": 35,
+            "magnesium_mg": 8
+        },
+        "template_compatible": [
+            "Smoothie",
+            "Oat Bowl",
+            "Snack"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 4.80,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Olive oil",
+        "macros_per_100g": {
+            "calories": 884,
+            "protein": 0,
+            "fat": 100,
+            "carbs": 0
+        },
+        "micros": {
+            "vitamin_e_mg": 14.3
+        },
+        "template_compatible": [
+            "Tray Bake",
+            "Stir Fry",
+            "Snack"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 6.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Flaxseed (ground)",
+        "macros_per_100g": {
+            "calories": 534,
+            "protein": 18,
+            "fat": 42,
+            "carbs": 29
+        },
+        "micros": {
+            "magnesium_mg": 392,
+            "zinc_mg": 4.3,
+            "iron_mg": 5.7
+        },
+        "template_compatible": [
+            "Oat Bowl",
+            "Smoothie"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 5.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Carrots",
+        "macros_per_100g": {
+            "calories": 41,
+            "protein": 0.9,
+            "fat": 0.2,
+            "carbs": 10
+        },
+        "micros": {
+            "vitamin_a_mcg": 835,
+            "magnesium_mg": 12
+        },
+        "template_compatible": [
+            "Tray Bake",
+            "Stew",
+            "Frittata"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 2.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Banana",
+        "macros_per_100g": {
+            "calories": 89,
+            "protein": 1.1,
+            "fat": 0.3,
+            "carbs": 23
+        },
+        "micros": {
+            "magnesium_mg": 27,
+            "vitamin_b6_mg": 0.4
+        },
+        "template_compatible": [
+            "Oat Bowl",
+            "Smoothie",
+            "Snack"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 2.50,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Frozen mixed berries",
+        "macros_per_100g": {
+            "calories": 50,
+            "protein": 1,
+            "fat": 0.3,
+            "carbs": 12
+        },
+        "micros": {
+            "vitamin_c_mg": 35,
+            "magnesium_mg": 8
+        },
+        "template_compatible": [
+            "Smoothie",
+            "Oat Bowl",
+            "Snack"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 4.80,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Olive oil",
+        "macros_per_100g": {
+            "calories": 884,
+            "protein": 0,
+            "fat": 100,
+            "carbs": 0
+        },
+        "micros": {
+            "vitamin_e_mg": 14.3
+        },
+        "template_compatible": [
+            "Tray Bake",
+            "Stir Fry",
+            "Snack"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 6.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Flaxseed (ground)",
+        "macros_per_100g": {
+            "calories": 534,
+            "protein": 18,
+            "fat": 42,
+            "carbs": 29
+        },
+        "micros": {
+            "magnesium_mg": 392,
+            "zinc_mg": 4.3,
+            "iron_mg": 5.7
+        },
+        "template_compatible": [
+            "Oat Bowl",
+            "Smoothie"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 5.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Carrots",
+        "macros_per_100g": {
+            "calories": 41,
+            "protein": 0.9,
+            "fat": 0.2,
+            "carbs": 10
+        },
+        "micros": {
+            "vitamin_a_mcg": 835,
+            "magnesium_mg": 12
+        },
+        "template_compatible": [
+            "Tray Bake",
+            "Stew",
+            "Frittata"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 2.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Banana",
+        "macros_per_100g": {
+            "calories": 89,
+            "protein": 1.1,
+            "fat": 0.3,
+            "carbs": 23
+        },
+        "micros": {
+            "magnesium_mg": 27,
+            "vitamin_b6_mg": 0.4
+        },
+        "template_compatible": [
+            "Oat Bowl",
+            "Smoothie",
+            "Snack"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 2.50,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Frozen mixed berries",
+        "macros_per_100g": {
+            "calories": 50,
+            "protein": 1,
+            "fat": 0.3,
+            "carbs": 12
+        },
+        "micros": {
+            "vitamin_c_mg": 35,
+            "magnesium_mg": 8
+        },
+        "template_compatible": [
+            "Smoothie",
+            "Oat Bowl",
+            "Snack"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 4.80,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Olive oil",
+        "macros_per_100g": {
+            "calories": 884,
+            "protein": 0,
+            "fat": 100,
+            "carbs": 0
+        },
+        "micros": {
+            "vitamin_e_mg": 14.3
+        },
+        "template_compatible": [
+            "Tray Bake",
+            "Stir Fry",
+            "Snack"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 6.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Flaxseed (ground)",
+        "macros_per_100g": {
+            "calories": 534,
+            "protein": 18,
+            "fat": 42,
+            "carbs": 29
+        },
+        "micros": {
+            "magnesium_mg": 392,
+            "zinc_mg": 4.3,
+            "iron_mg": 5.7
+        },
+        "template_compatible": [
+            "Oat Bowl",
+            "Smoothie"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 5.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Carrots",
+        "macros_per_100g": {
+            "calories": 41,
+            "protein": 0.9,
+            "fat": 0.2,
+            "carbs": 10
+        },
+        "micros": {
+            "vitamin_a_mcg": 835,
+            "magnesium_mg": 12
+        },
+        "template_compatible": [
+            "Tray Bake",
+            "Stew",
+            "Frittata"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 2.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Whey protein isolate (unflavored)",
+        "macros_per_100g": {
+            "calories": 370,
+            "protein": 90,
+            "fat": 1,
+            "carbs": 3
+        },
+        "micros": {
+            "calcium_mg": 250,
+            "magnesium_mg": 45
+        },
+        "template_compatible": [
+            "Smoothie",
+            "Oat Bowl",
+            "Snack"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 30.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Peanut butter (natural)",
+        "macros_per_100g": {
+            "calories": 588,
+            "protein": 25,
+            "fat": 50,
+            "carbs": 20
+        },
+        "micros": {
+            "magnesium_mg": 168,
+            "iron_mg": 1.9,
+            "zinc_mg": 3.3
+        },
+        "template_compatible": [
+            "Snack",
+            "Oat Bowl",
+            "Smoothie"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 5.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Frozen mixed stir-fry vegetables",
+        "macros_per_100g": {
+            "calories": 50,
+            "protein": 2,
+            "fat": 0.3,
+            "carbs": 10
+        },
+        "micros": {
+            "magnesium_mg": 20,
+            "iron_mg": 1
+        },
+        "template_compatible": [
+            "Stir Fry",
+            "Tray Bake",
+            "Curry"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 2.50,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Cottage cheese",
+        "macros_per_100g": {
+            "calories": 98,
+            "protein": 11,
+            "fat": 4.3,
+            "carbs": 3.4
+        },
+        "micros": {
+            "calcium_mg": 83,
+            "vitamin_b12_mcg": 0.7
+        },
+        "template_compatible": [
+            "Snack",
+            "Oat Bowl",
+            "Frittata"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 4.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Pumpkin (raw or frozen)",
+        "macros_per_100g": {
+            "calories": 26,
+            "protein": 1,
+            "fat": 0.1,
+            "carbs": 6.5
+        },
+        "micros": {
+            "vitamin_a_mcg": 426,
+            "magnesium_mg": 9
+        },
+        "template_compatible": [
+            "Curry",
+            "Tray Bake",
+            "Stew"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 2.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Turkey breast (raw)",
+        "macros_per_100g": {
+            "calories": 135,
+            "protein": 29,
+            "fat": 1.5,
+            "carbs": 0
+        },
+        "micros": {
+            "zinc_mg": 1.0,
+            "iron_mg": 1.2,
+            "vitamin_b6_mg": 0.6,
+            "tyrosine_mg": 1300
+        },
+        "template_compatible": [
+            "Tray Bake",
+            "Stir Fry",
+            "Snack"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 12.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Lean beef mince (5% fat)",
+        "macros_per_100g": {
+            "calories": 137,
+            "protein": 22,
+            "fat": 5,
+            "carbs": 0
+        },
+        "micros": {
+            "iron_mg": 2.5,
+            "zinc_mg": 4.1,
+            "vitamin_b12_mcg": 2.6,
+            "tyrosine_mg": 1200
+        },
+        "template_compatible": [
+            "Tray Bake",
+            "Stir Fry",
+            "Frittata"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 10.50,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Tuna (canned in springwater)",
+        "macros_per_100g": {
+            "calories": 116,
+            "protein": 26,
+            "fat": 1,
+            "carbs": 0
+        },
+        "micros": {
+            "vitamin_d_IU": 269,
+            "zinc_mg": 1.3
+        },
+        "template_compatible": [
+            "Snack",
+            "Frittata",
+            "Tray Bake"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 3.50,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Beef jerky",
+        "macros_per_100g": {
+            "calories": 410,
+            "protein": 33,
+            "fat": 25,
+            "carbs": 2.5
+        },
+        "micros": {
+            "zinc_mg": 3.5,
+            "iron_mg": 3.2,
+            "tyrosine_mg": 1600
+        },
+        "template_compatible": [
+            "Snack"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 6.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Ricotta cheese (low fat)",
+        "macros_per_100g": {
+            "calories": 140,
+            "protein": 11,
+            "fat": 10,
+            "carbs": 3
+        },
+        "micros": {
+            "calcium_mg": 200
+        },
+        "template_compatible": [
+            "Snack",
+            "Oat Bowl",
+            "Frittata"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 4.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Rice cakes (plain)",
+        "macros_per_100g": {
+            "calories": 387,
+            "protein": 7.5,
+            "fat": 0.5,
+            "carbs": 82
+        },
+        "micros": {
+            "iron_mg": 1.3,
+            "zinc_mg": 1.1
+        },
+        "template_compatible": [
+            "Snack"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 2.50,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "White rice (dry)",
+        "macros_per_100g": {
+            "calories": 365,
+            "protein": 7,
+            "fat": 0.5,
+            "carbs": 80
+        },
+        "micros": {
+            "iron_mg": 1.5
+        },
+        "template_compatible": [
+            "Stir Fry",
+            "Tray Bake",
+            "Stew"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 3.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Sun-dried tomatoes (dry-packed)",
+        "macros_per_100g": {
+            "calories": 258,
+            "protein": 14,
+            "fat": 3,
+            "carbs": 56
+        },
+        "micros": {
+            "iron_mg": 9.1,
+            "vitamin_c_mg": 39
+        },
+        "template_compatible": [
+            "Stir Fry",
+            "Frittata",
+            "Snack"
+        ],
+        "pantry_item": true,
+        "batchable": true,
+        "estimated_cost": 5.00,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Avocado",
+        "macros_per_100g": {
+            "calories": 160,
+            "protein": 2,
+            "fat": 15,
+            "carbs": 9
+        },
+        "micros": {
+            "vitamin_e_mg": 2.1,
+            "magnesium_mg": 29
+        },
+        "template_compatible": [
+            "Snack",
+            "Smoothie",
+            "Grain Bowl"
+        ],
+        "pantry_item": false,
+        "batchable": false,
+        "estimated_cost": 2.50,
+        "measurement_basis": "raw"
+    },
+    {
+        "name": "Deli turkey breast (sliced)",
+        "macros_per_100g": {
+            "calories": 120,
+            "protein": 23,
+            "fat": 2.5,
+            "carbs": 1
+        },
+        "micros": {
+            "tyrosine_mg": 1200,
+            "vitamin_b6_mg": 0.5
+        },
+        "template_compatible": [
+            "Snack",
+            "Frittata",
+            "Tray Bake"
+        ],
+        "pantry_item": false,
+        "batchable": true,
+        "estimated_cost": 5.00,
+        "measurement_basis": "raw"
+    }
+]
